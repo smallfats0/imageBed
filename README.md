@@ -1,0 +1,2 @@
+# typroa-pictur
+PicGo
